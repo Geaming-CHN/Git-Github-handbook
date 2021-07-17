@@ -34,7 +34,8 @@
 1. 集中式版本控制工具（单点故障SPOF）：CVS、==SVN==、VSS……
 2. 分布式版本控制工具：==Git==……
 
-## Git简史<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1024px-Git-logo.svg.png" alt="Git-logo-2012.svg" style="zoom: 25%;" />
+## Git简史
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1024px-Git-logo.svg.png" alt="Git-logo-2012.svg" style="zoom: 25%;" />
 
 https://en.wikipedia.org/wiki/Git
 
